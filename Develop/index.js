@@ -63,7 +63,7 @@ function writeToFile(fileName, data) {
         if (err) {
             return console.log(err)
         } else {
-            console.log("you have created a ReadMe file");
+            console.log("you have created a ReadMe file, it is located in the 'utils' folder");
         }
     })
 }
