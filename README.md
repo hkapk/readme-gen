@@ -24,7 +24,7 @@ install node, and the required dependencies. (run npm i).
 
 ## Usage Requirements:
 
-To use the project watch the how to video or follow the instructions in the readme .
+To use the project watch the how to video or follow the instructions in the readme. Navigate to the project directory and run 'node index.js' in the terminal.
 
 ## Contribution Guidelines:
 
