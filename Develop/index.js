@@ -26,6 +26,16 @@ const questions = [{
     message: 'Provide the usage requirements for your project.'
   },
   {
+    type: 'input',
+    name: 'contributions',
+    message: 'What are the contribution guidelines for this project?'
+  },
+  {
+  type: 'input',
+  name: 'tests',
+  message: 'Please provide the test instructions for this project.'
+  },
+  {
     type: 'checkbox',
     message: 'What license(s) does the project have?',
     name: 'license',
