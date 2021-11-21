@@ -1,7 +1,8 @@
 # readme-gen
   https://github.com/hkapk/readme-gen
+
   ## Project Description:
-  This is a node application developed to prompt a user with questions and generates a README file based on the users answers.
+  This is a readme generator. The user will be prompted with questions and generate a readme based on their answers. The project uses Node.js. 
   ### Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -11,14 +12,15 @@
   - [License](#license)
   - [Questions](#questions)
   ## Installation Instructions:
-  To install the project first install NODE, then install the inquirer, fs and util dependencies. 
+  install node, and the required dependencies. (run npm i). 
   ## Usage Requirements:
-  You will need Node to use this project. There are no other requirements. 
+  To use the project watch the how to video or follow the instructions in the readme .
   ## Contribution Guidelines:
-  Please email the main contributor if you would like to contribute to this project. 
+  To contribute you should first please email the primary author to request permission.
   ## Test Instructions:
-  There are no test instructions at this time. 
+  There are currently no test requirements or instructions.
   ## License:
-  This application is licensed by: None
+  This application is licensed by: MIT
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   ## Questions?
   Contact hkapk on GitHub or send an email inquiry to hankkapka@gmail.com.

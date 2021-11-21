@@ -16,6 +16,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
   https://github.com/${data.username}/${data.title}
+
   ## Project Description:
   ${data.description}
   ### Table of Contents
@@ -36,6 +37,7 @@ function generateMarkdown(data) {
   ${data.tests}
   ## License:
   This application is licensed by: ${data.license}
+  [![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/${data.license})
   ## Questions?
   Contact ${data.username} on GitHub or send an email inquiry to ${data.email}.
 `;
