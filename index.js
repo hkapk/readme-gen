@@ -75,7 +75,7 @@ function init() {
 
 
     .then(function(data) {
-        writeToFile("README.md", generateMarkdown (data));    
+        writeToFile("./dist/README.md", generateMarkdown (data));    
 })
 }
 
