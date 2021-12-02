@@ -20,7 +20,7 @@ This is a readme generator. The user will be prompted with questions and generat
 
 ## Installation Instructions:
 
-install node, and the required dependencies. (run npm i).
+install node, and the required dependencies. (run npm i). run node Develop/index.js to begin. 
 
 ## Usage Requirements:
 
