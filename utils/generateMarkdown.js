@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   This application is licensed by: ${data.license}
   [![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/${data.license})
   ## Questions?
-  Contact ${data.username} on GitHub or send an email inquiry to ${data.email}.
+  Checkout github.com/${data.username} on GitHub or send an email inquiry to ${data.email}.
 `;
 }
 

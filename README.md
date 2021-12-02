@@ -1,4 +1,4 @@
-# readme-gen
+# README.md Generator
 
 https://github.com/hkapk/readme-gen
 
@@ -6,7 +6,13 @@ https://github.com/hkapk/readme-gen
 
 This is a readme generator. The user will be prompted with questions and generate a readme based on their answers. The project uses Node.js.
 
-![How To](/assets/images/howto.gif)
+## Steps:
+
+1. Clone the Repo and go to the project root
+2. install Node and required dependencies (npm i).
+3. Enter 'Node Index' into the console.
+4. Follow the inquirer question prompts.
+5. Upon completed you will find a README.md file generated to the dist directory.
 
 ### Table of Contents
 
@@ -20,7 +26,10 @@ This is a readme generator. The user will be prompted with questions and generat
 
 ## Installation Instructions:
 
-install node, and the required dependencies. (run npm i).
+1. install node, and the required dependencies. (run npm i).
+2. run node index.js in the console to begin. (make sure you are at the root of the project)
+3. Answer the questions prompts
+4. Find a README.md file generated to the dist directory.
 
 ## Usage Requirements:
 
@@ -28,17 +37,17 @@ To use the project watch the how to video or follow the instructions in the read
 
 ## Contribution Guidelines:
 
-To contribute you should first please email the primary author to request permission.
+Free to contribute to.
 
 ## Test Instructions:
 
-There are currently no test requirements or instructions.
+None at this time.
 
 ## License:
 
-This application is licensed by: MIT
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+This application is licensed by:
+[![License](https://img.shields.io/badge/License--blue.svg)](https://opensource.org/licenses/)
 
 ## Questions?
 
-Contact hkapk on GitHub or send an email inquiry to hankkapka@gmail.com.
+Contact https://github.com/hkapk on GitHub or send an email inquiry to hankkapka@gmail.com.
