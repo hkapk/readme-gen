@@ -26,10 +26,12 @@ This is a readme generator. The user will be prompted with questions and generat
 
 ## Installation Instructions:
 
+
 1. install node, and the required dependencies. (run npm i).
 2. run node index.js in the console to begin. (make sure you are at the root of the project)
 3. Answer the questions prompts
 4. Find a README.md file generated to the dist directory.
+
 
 ## Usage Requirements:
 
