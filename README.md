@@ -46,7 +46,7 @@ None at this time.
 ## License:
 
 This application is licensed by:
-[![License](https://img.shields.io/badge/License--blue.svg)](https://opensource.org/licenses/)
+[![License](https://img.shields.io/badge/License--blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Questions?
 
