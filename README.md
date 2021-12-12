@@ -6,7 +6,7 @@ https://github.com/hkapk/readme-gen
 
 ## Project Description:
 
-This is a readme generator. The user will be prompted with questions and generate a readme based on their answers. The project uses Node.js. A readme.md file will be generated to the /dist folder and a sample can be found [here:] (https://github.com/hkapk/readme-gen/blob/main/dist/README.md)
+This is a readme generator. The user will be prompted with questions and generate a readme based on their answers. The project uses Node.js. A readme.md file will be generated to the /dist folder and a sample can be found [here](https://github.com/hkapk/readme-gen/blob/main/dist/README.md)
 
 ## Steps:
 
