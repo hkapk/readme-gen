@@ -1,10 +1,10 @@
-# Sample-ReadMe
+# ReadMe-Generator_example
 
-https://github.com/hkapk/Sample-ReadMe
+https://github.com/hkapk/ReadMe-Generator_example
 
 ## Project Description:
 
-This is an example
+This is an example of how the app functions.
 
 ### Table of Contents
 
@@ -18,24 +18,24 @@ This is an example
 
 ## Installation Instructions:
 
-Intall Node.js, ext.
+Install Node, Inquierer , NPM I
 
 ## Usage Requirements:
 
-Free to use
+Free to use or contribute to
 
 ## Contribution Guidelines:
 
-free to contribute to
+Free to contribute to
 
 ## Test Instructions:
 
-npm test
+run npm test, this uses JEST
 
 ## License:
 
-This application is licensed by: MIT
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+This application is licensed by:
+[![License](https://img.shields.io/badge/License--blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Questions?
 
